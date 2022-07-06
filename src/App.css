@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,67 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.container {
+  width: 1140px;
+  margin: auto;
 }
+
+p {
+  text-align: justify;
+}
+
+th,
+td {
+  border-bottom: 1px solid #333;
+}
+
+th{
+  background-color: #74d1f9;
+ 
+}
+
+#users {
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  font: .9em/1.2 Arial, Helvetica, sans-serif;
+  margin-top: 30px;
+}
+
+table {
+  border: 1px solid #333;
+  border-collapse: collapse;
+  border-radius: 8px;   
+  margin-left: 150px;
+}
+
+
+
+th, td{
+  border: 1px solid #333;
+  border-collapse: collapse;
+  
+}
+
+.name,
+.email,
+.id,
+.phone,
+.website {
+  text-align: center;
+ 
+}
+
+.name,
+.email,
+.phone,
+.website {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+
+
+
